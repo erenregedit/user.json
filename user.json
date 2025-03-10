@@ -78,5 +78,9 @@
   "mufler": {
     "password": "1",
     "hwid": ""
+  },
+  "akas": {
+    "password": "1",
+    "hwid": ""
   }
 }
