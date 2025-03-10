@@ -74,5 +74,9 @@
   "dood": {
     "password": "1",
     "hwid": ""
+  },
+  "mufler": {
+    "password": "1",
+    "hwid": ""
   }
 }
