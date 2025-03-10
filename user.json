@@ -1,4 +1,10 @@
 {
-    "1": { "password": "1", "hwid": "" },
-    "user2": { "password": "test456", "hwid": "" }
+  "1": {
+    "password": "1",
+    "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732"
+  },
+  "user2": {
+    "password": "test456",
+    "hwid": ""
+  }
 }
