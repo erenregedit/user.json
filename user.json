@@ -38,5 +38,9 @@
   "lenix": {
     "password": "1",
     "hwid": ""
+  },
+  "myt": {
+    "password": "1",
+    "hwid": ""
   }
 }
