@@ -14,5 +14,9 @@
   "talha": {
     "password": "1",
     "hwid": ""
+  },
+  "doodle": {
+    "password": "1",
+    "hwid": ""
   }
 }
