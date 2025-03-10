@@ -86,5 +86,9 @@
   "sarwal": {
     "password": "1",
     "hwid": ""
+  },
+  "mee": {
+    "password": "1",
+    "hwid": ""
   }
 }
