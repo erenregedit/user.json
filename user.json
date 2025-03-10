@@ -1,1 +1,4 @@
-
+{
+    "1": { "password": "1", "hwid": "" },
+    "user2": { "password": "test456", "hwid": "" }
+}
