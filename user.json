@@ -27,6 +27,12 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-11 22:42:34"
+    },
+    "test": {
+      "password": "test",
+      "hwid": "",
+      "expiryDate": "2025-03-13 01:57:35",
+      "creationDate": "2025-03-11 22:57:43"
     }
   }
 }
