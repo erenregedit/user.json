@@ -95,5 +95,10 @@
   "insane": {
     "password": "1",
     "hwid": "35389B80-7FE8-11E4-903A-C4346B6BBE4E"
+  },
+  "testers": {
+    "password": "2",
+    "hwid": "",
+    "expiryDate": "2080-09-20"
   }
 }
