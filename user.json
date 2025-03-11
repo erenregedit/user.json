@@ -1,12 +1,5 @@
 {
-  "EREN": {
-    "2": {
-      "password": "2",
-      "hwid": "",
-      "expiryDate": "2222-02-02",
-      "creationDate": "2025-03-11 23:15:28"
-    }
-  },
+  "EREN": {},
   "INSANE": {
     "user3": {
       "password": "hashed_password_3",
