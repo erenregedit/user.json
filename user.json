@@ -1,41 +1,30 @@
 {
-  "EREN": {
-    "2": {
-      "password": "2",
-      "hwid": "",
-      "expiryDate": "2222-02-22",
-      "creationDate": "2025-03-11 21:08:20",
-      "lastUsed": "2025-03-11 22:32:59"
+    "EREN": {
+        "user1": {
+            "password": "hashed_password_1",
+            "hwid": "unique_hwid_1",
+            "expiryDate": "2025-03-15",
+            "creationDate": "2025-02-25 12:30:45"
+        },
+        "user2": {
+            "password": "hashed_password_2",
+            "hwid": "unique_hwid_2",
+            "expiryDate": "No Expiry",
+            "creationDate": "2025-02-27 10:15:30"
+        }
     },
-    "zahid": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-03-11 22:39:42"
-    },
-    "4": {
-      "password": "4",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-03-11 22:42:34"
-    },
-    "test": {
-      "password": "test",
-      "hwid": "",
-      "expiryDate": "2025-03-13 01:57:35",
-      "creationDate": "2025-03-11 22:57:43"
-    },
-    "3": {
-      "password": "23",
-      "hwid": "",
-      "expiryDate": "2016-02-23",
-      "creationDate": "2025-03-11 23:02:02"
-    },
-    "1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2222-02-02",
-      "creationDate": "2025-03-11 23:06:23"
+    "INSANE": {
+        "user3": {
+            "password": "hashed_password_3",
+            "hwid": "unique_hwid_3",
+            "expiryDate": "2024-12-01",
+            "creationDate": "2024-11-15 08:45:20"
+        },
+        "user4": {
+            "password": "hashed_password_4",
+            "hwid": "",
+            "expiryDate": "No Expiry",
+            "creationDate": "2025-01-05 14:20:10"
+        }
     }
-  }
 }
