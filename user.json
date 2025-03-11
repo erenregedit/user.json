@@ -2,10 +2,9 @@
   "INSANE": {
     "1": {
       "password": "1",
-      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
+      "hwid": "",
       "expiryDate": "2222-02-22",
-      "creationDate": "2025-03-11 21:08:05",
-      "lastUsed": "2025-03-11 22:45:03"
+      "creationDate": "2025-03-11 21:08:05"
     }
   },
   "EREN": {
@@ -14,13 +13,19 @@
       "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
       "expiryDate": "2222-02-22",
       "creationDate": "2025-03-11 21:08:20",
-      "lastUsed": "2025-03-11 22:32:59"
+      "lastUsed": "2025-03-11 22:46:22"
     },
     "zahid": {
       "password": "1",
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-11 22:39:42"
+    },
+    "4": {
+      "password": "4",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-11 22:42:34"
     }
   }
 }
