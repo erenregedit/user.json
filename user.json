@@ -1,16 +1,24 @@
 {
-    "1": {
-      "password": "1",
+  "EREN": {
+    "user1": {
+      "password": "password123",
+      "hwid": "1234-5678-ABCD-EFGH",
+      "expiryDate": "2025-12-31",
+      "lastUsed": "2025-03-12 12:00:00"
+    },
+    "user2": {
+      "password": "securePass456",
       "hwid": "",
-      "expiryDate": "2222-02-22",
-      "creationDate": "2025-03-11 21:08:05"
+      "expiryDate": "2026-01-01",
+      "lastUsed": ""
     }
   },
-    "2": {
-      "password": "2",
-      "hwid": "",
-      "expiryDate": "2222-02-22",
-      "creationDate": "2025-03-11 21:08:20"
+  "INSANE": {
+    "anotherUser": {
+      "password": "pass789",
+      "hwid": "WXYZ-9876-HJKL-5432",
+      "expiryDate": "2024-12-01",
+      "lastUsed": "2025-03-10 18:30:00"
     }
   }
 }
