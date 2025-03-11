@@ -13,12 +13,6 @@
       "hwid": "unique_hwid_3",
       "expiryDate": "2024-12-01",
       "creationDate": "2024-11-15 08:45:20"
-    },
-    "user4": {
-      "password": "hashed_password_4",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-01-05 14:20:10"
     }
   }
 }
