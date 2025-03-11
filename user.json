@@ -39,6 +39,12 @@
       "hwid": "",
       "expiryDate": "2016-02-23",
       "creationDate": "2025-03-11 23:02:02"
+    },
+    "1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2222-02-02",
+      "creationDate": "2025-03-11 23:06:23"
     }
   }
 }
