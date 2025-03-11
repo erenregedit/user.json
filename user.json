@@ -7,12 +7,5 @@
       "creationDate": "2025-03-11 23:17:48"
     }
   },
-  "INSANE": {
-    "user3": {
-      "password": "hashed_password_3",
-      "hwid": "unique_hwid_3",
-      "expiryDate": "2024-12-01",
-      "creationDate": "2024-11-15 08:45:20"
-    }
-  }
+  "INSANE": {}
 }
