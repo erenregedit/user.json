@@ -5,6 +5,12 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-11 23:37:03"
+    },
+    "test": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2222-02-02",
+      "creationDate": "2025-03-11 23:44:11"
     }
   },
   "INSANE": {
