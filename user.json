@@ -45,12 +45,5 @@
       "creationDate": "2025-03-12 10:10:43"
     }
   },
-  "INSANE": {
-    "hamza": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "4052-11-25 10:07:46",
-      "creationDate": "2025-03-12 10:08:04"
-    }
-  }
+  "INSANE": {}
 }
