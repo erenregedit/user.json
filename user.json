@@ -14,5 +14,12 @@
       "lastUsed": "2025-03-12 00:08:55"
     }
   },
-  "INSANE": {}
+  "INSANE": {
+    "1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2222-02-02",
+      "creationDate": "2025-03-12 00:09:54"
+    }
+  }
 }
