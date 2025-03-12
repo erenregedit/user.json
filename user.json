@@ -2,9 +2,10 @@
   "EREN": {
     "2": {
       "password": "2",
-      "hwid": "",
+      "hwid": "35389B80-7FE8-11E4-903A-C4346B6BBE4E",
       "expiryDate": "2222-02-02",
-      "creationDate": "2025-03-12 00:10:28"
+      "creationDate": "2025-03-12 00:10:28",
+      "lastUsed": "2025-03-12 09:34:24"
     },
     "1": {
       "password": "1",
