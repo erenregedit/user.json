@@ -46,13 +46,6 @@
     }
   },
   "INSANE": {
-    "1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-03-12 00:24:07",
-      "lastUsed": "2025-03-12 00:55:21"
-    },
     "hamza": {
       "password": "1",
       "hwid": "",
