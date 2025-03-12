@@ -189,6 +189,12 @@
       "hwid": "",
       "expiryDate": "2025-08-02",
       "creationDate": "2025-03-12 10:22:15"
+    },
+    "hakim": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-03-20",
+      "creationDate": "2025-03-12 10:23:44"
     }
   }
 }
