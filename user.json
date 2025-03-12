@@ -1,13 +1,5 @@
 {
-  "EREN": {
-    "test": {
-      "password": "1",
-      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
-      "expiryDate": "2222-02-02",
-      "creationDate": "2025-03-11 23:44:11",
-      "lastUsed": "2025-03-12 00:08:55"
-    }
-  },
+  "EREN": {},
   "INSANE": {
     "1": {
       "password": "1",
