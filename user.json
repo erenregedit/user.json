@@ -5,7 +5,7 @@
       "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
       "expiryDate": "2222-02-02",
       "creationDate": "2025-03-12 00:10:28",
-      "lastUsed": "2025-03-13 17:45:20"
+      "lastUsed": "2025-03-13 19:11:11"
     },
     "1": {
       "password": "1",
@@ -45,6 +45,12 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-13 17:01:40"
+    },
+    "test": {
+      "password": "3242",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-13 19:06:10"
     }
   },
   "INSANE": {
@@ -124,7 +130,7 @@
       "hwid": "71666C28-8D03-4A3F-765E-04D4C4ADE15E",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-12 10:19:58",
-      "lastUsed": "2025-03-13 19:09:48"
+      "lastUsed": "2025-03-13 11:38:23"
     },
     "uzzi": {
       "password": "1",
