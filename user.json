@@ -113,9 +113,10 @@
     },
     "haris": {
       "password": "1",
-      "hwid": "",
+      "hwid": "6443CC51-7A3E-11E6-9C43-BC0000D60000",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-12 10:31:49"
+      "creationDate": "2025-03-12 10:31:49",
+      "lastUsed": "2025-03-13 14:51:40"
     },
     "hadi": {
       "password": "1",
