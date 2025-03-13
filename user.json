@@ -147,9 +147,10 @@
     },
     "shazy": {
       "password": "1",
-      "hwid": "",
+      "hwid": "88DDEC52-3154-0A6E-6852-50EBF676AB44",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-12 10:19:58"
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-03-13 18:40:12"
     },
     "rehan1": {
       "password": "1",
@@ -195,10 +196,9 @@
     },
     "ali1": {
       "password": "1",
-      "hwid": "CBC6AB1A-8C76-11E8-9F72-9CEBE84C8A05",
+      "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-13 17:16:22",
-      "lastUsed": "2025-03-13 18:38:03"
+      "creationDate": "2025-03-13 17:16:22"
     },
     "muneeb": {
       "password": "1",
