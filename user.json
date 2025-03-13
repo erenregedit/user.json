@@ -29,9 +29,10 @@
     },
     "zahid": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4337774B-1624-49EC-A16C-D976BA87CD39",
       "expiryDate": "2025 3 20",
-      "creationDate": "2025-03-13 16:39:06"
+      "creationDate": "2025-03-13 16:39:06",
+      "lastUsed": "2025-03-13 17:07:05"
     },
     "haris": {
       "password": "1",
