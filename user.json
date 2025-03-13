@@ -12,7 +12,7 @@
       "hwid": "35389B80-7FE8-11E4-903A-C4346B6BBE4E",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-12 00:24:07",
-      "lastUsed": "2025-03-13 10:01:23"
+      "lastUsed": "2025-03-13 09:32:08"
     },
     "zahid": {
       "password": "1",
@@ -302,9 +302,10 @@
     },
     "hakim": {
       "password": "1",
-      "hwid": "",
+      "hwid": "2899BA2C-476A-12F3-E178-08BFB8B97D69",
       "expiryDate": "2025-03-20",
-      "creationDate": "2025-03-12 10:23:44"
+      "creationDate": "2025-03-12 10:23:44",
+      "lastUsed": "2025-03-13 11:03:20"
     }
   }
 }
