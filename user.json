@@ -207,9 +207,10 @@
     },
     "zahid": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-13 17:45:56"
+      "creationDate": "2025-03-13 17:45:56",
+      "lastUsed": "2025-03-13 17:50:08"
     }
   }
 }
