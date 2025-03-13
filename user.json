@@ -70,9 +70,10 @@
     },
     "awais1": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-004E-5410-804D-C4C04F313032",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-12 10:31:49"
+      "creationDate": "2025-03-12 10:31:49",
+      "lastUsed": "2025-03-13 11:10:50"
     },
     "sami1": {
       "password": "1",
