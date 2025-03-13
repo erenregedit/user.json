@@ -204,9 +204,10 @@
     },
     "asad": {
       "password": "1",
-      "hwid": "",
+      "hwid": "715D7600-56C6-11E2-8E38-10604B716124",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-12 10:19:58"
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-03-13 09:34:41"
     },
     "1": {
       "password": "",
