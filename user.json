@@ -80,9 +80,10 @@
     },
     "sami1": {
       "password": "1",
-      "hwid": "",
+      "hwid": "2D954480-D7DA-11DD-9665-0862664498E0",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-12 10:31:49"
+      "creationDate": "2025-03-12 10:31:49",
+      "lastUsed": "2025-03-13 13:37:17"
     },
     "retro": {
       "password": "1",
