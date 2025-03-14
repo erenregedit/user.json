@@ -74,9 +74,10 @@
     },
     "bakar": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4F691B80-E15E-11E2-A52E-8851FB53ADED",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-14 04:40:14"
+      "creationDate": "2025-03-14 04:40:14",
+      "lastUsed": "2025-03-14 18:04:23"
     }
   },
   "INSANE": {
