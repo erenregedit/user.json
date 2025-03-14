@@ -97,10 +97,9 @@
     },
     "hasnain": {
       "password": "1",
-      "hwid": "32444335-3834-5437-3539-395438344435",
+      "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-14 13:04:55",
-      "lastUsed": "2025-03-14 14:26:24"
+      "creationDate": "2025-03-14 13:04:55"
     },
     "akas": {
       "password": "1",
@@ -118,9 +117,10 @@
     },
     "giveaway": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
       "expiryDate": "2025-4-14",
-      "creationDate": "2025-03-14 14:17:06"
+      "creationDate": "2025-03-14 14:17:06",
+      "lastUsed": "2025-03-14 14:30:18"
     }
   },
   "INSANE": {
