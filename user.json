@@ -124,9 +124,10 @@
     },
     "akhil": {
       "password": "1",
-      "hwid": "",
+      "hwid": "588739B3-8008-A618-A80B-047C16739EDA",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-14 14:47:40"
+      "creationDate": "2025-03-14 14:47:40",
+      "lastUsed": "2025-03-14 14:52:00"
     }
   },
   "INSANE": {
