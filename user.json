@@ -104,9 +104,10 @@
     },
     "fanta": {
       "password": "1",
-      "hwid": "",
+      "hwid": "3168E1C0-D7DA-11DD-8697-10C37BDCCE01",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-12 10:19:58"
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-03-14 08:46:43"
     },
     "worrior": {
       "password": "1",
