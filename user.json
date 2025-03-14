@@ -37,9 +37,10 @@
     },
     "haris": {
       "password": "1",
-      "hwid": "",
+      "hwid": "6443CC51-7A3E-11E6-9C43-BC0000D60000",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-13 16:56:10"
+      "creationDate": "2025-03-13 16:56:10",
+      "lastUsed": "2025-03-14 10:37:47"
     },
     "ali": {
       "password": "1",
