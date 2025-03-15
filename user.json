@@ -57,10 +57,9 @@
     },
     "sarwal": {
       "password": "1",
-      "hwid": "4C4C4544-004B-4810-8034-B6C04F384733",
+      "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-14 03:22:02",
-      "lastUsed": "2025-03-15 02:11:39"
+      "creationDate": "2025-03-14 03:22:02"
     },
     "arise": {
       "password": "1",
@@ -275,7 +274,7 @@
       "hwid": "2899BA2C-476A-12F3-E178-08BFB8B97D69",
       "expiryDate": "2025-03-20",
       "creationDate": "2025-03-12 10:23:44",
-      "lastUsed": "2025-03-15 03:04:45"
+      "lastUsed": "2025-03-15 03:15:29"
     },
     "dood": {
       "password": "1",
@@ -299,10 +298,9 @@
     },
     "1": {
       "password": "1",
-      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
+      "hwid": "",
       "expiryDate": "2057-10-15 22:50:30",
-      "creationDate": "2025-03-14 16:50:42",
-      "lastUsed": "2025-03-15 02:13:14"
+      "creationDate": "2025-03-14 16:50:42"
     }
   }
 }
