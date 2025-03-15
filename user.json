@@ -271,9 +271,10 @@
     },
     "hakim": {
       "password": "1",
-      "hwid": "",
+      "hwid": "2899BA2C-476A-12F3-E178-08BFB8B97D69",
       "expiryDate": "2025-03-20",
-      "creationDate": "2025-03-12 10:23:44"
+      "creationDate": "2025-03-12 10:23:44",
+      "lastUsed": "2025-03-15 03:04:45"
     },
     "dood": {
       "password": "1",
