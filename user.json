@@ -57,10 +57,9 @@
     },
     "sarwal": {
       "password": "1",
-      "hwid": "4C4C4544-004B-4810-8034-B6C04F384733",
+      "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-14 03:22:02",
-      "lastUsed": "2025-03-16 00:40:41"
+      "creationDate": "2025-03-14 03:22:02"
     },
     "arise": {
       "password": "1",
@@ -116,7 +115,7 @@
       "hwid": "9D483D00-D7DA-11DD-822A-7824AF8A9ACD",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-14 14:11:40",
-      "lastUsed": "2025-03-16 00:38:46"
+      "lastUsed": "2025-03-16 00:40:49"
     },
     "giveaway": {
       "password": "1",
