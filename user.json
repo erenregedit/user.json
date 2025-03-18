@@ -37,10 +37,10 @@
     },
     "ali": {
       "password": "1",
-      "hwid": "27AA6F58-0E93-4831-9D62-41A97B9E6893",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-13 17:01:40",
-      "lastUsed": "2025-03-18 16:47:54"
+      "lastUsed": "2025-03-18 12:33:04"
     },
     "test": {
       "password": "3242",
@@ -74,7 +74,7 @@
       "hwid": "4F691B80-E15E-11E2-A52E-8851FB53ADED",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-14 04:40:14",
-      "lastUsed": "2025-03-17 17:49:22"
+      "lastUsed": "2025-03-18 16:48:35"
     },
     "awais": {
       "password": "1",
