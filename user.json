@@ -21,13 +21,6 @@
       "creationDate": "2025-03-13 16:19:59",
       "lastUsed": "2025-03-21 03:55:59"
     },
-    "zahid": {
-      "password": "1",
-      "hwid": "4337774B-1624-49EC-A16C-D976BA87CD39",
-      "expiryDate": "2025 3 20",
-      "creationDate": "2025-03-13 16:39:06",
-      "lastUsed": "2025-03-13 17:23:05"
-    },
     "haris": {
       "password": "1",
       "hwid": "6443CC51-7A3E-11E6-9C43-BC0000D60000",
@@ -265,13 +258,6 @@
       "hwid": "",
       "expiryDate": "2025-08-02",
       "creationDate": "2025-03-12 10:22:15"
-    },
-    "hakim": {
-      "password": "1",
-      "hwid": "2899BA2C-476A-12F3-E178-08BFB8B97D69",
-      "expiryDate": "2025-03-20",
-      "creationDate": "2025-03-12 10:23:44",
-      "lastUsed": "2025-03-19 23:29:59"
     },
     "dood": {
       "password": "1",
