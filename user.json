@@ -140,7 +140,7 @@
       "hwid": "4C4C4544-0054-3710-8036-C2C04F425A31",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-12 10:19:58",
-      "lastUsed": "2025-03-21 15:20:36"
+      "lastUsed": "2025-03-21 15:24:57"
     },
     "fanta": {
       "password": "1",
@@ -283,10 +283,9 @@
     },
     "faded": {
       "password": "1",
-      "hwid": "E2CA89B4-703E-4052-BE3A-E88088F41724",
+      "hwid": "",
       "expiryDate": "2026",
-      "creationDate": "2025-03-21 12:29:50",
-      "lastUsed": "2025-03-21 15:28:59"
+      "creationDate": "2025-03-21 12:29:50"
     }
   }
 }
