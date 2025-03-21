@@ -280,6 +280,12 @@
       "expiryDate": "2057-10-15 22:50:30",
       "creationDate": "2025-03-14 16:50:42",
       "lastUsed": "2025-03-21 02:44:41"
+    },
+    "faded": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026",
+      "creationDate": "2025-03-21 12:29:50"
     }
   }
 }
