@@ -283,10 +283,9 @@
     },
     "faded": {
       "password": "1",
-      "hwid": "E2CA89B4-703E-4052-BE3A-E88088F41724",
+      "hwid": "",
       "expiryDate": "2026",
-      "creationDate": "2025-03-21 12:29:50",
-      "lastUsed": "2025-03-21 16:19:01"
+      "creationDate": "2025-03-21 12:29:50"
     }
   }
 }
