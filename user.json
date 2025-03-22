@@ -121,9 +121,10 @@
     },
     "hadi": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-004E-3010-8053-B1C04F4E5731",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-03-22 08:53:16"
+      "creationDate": "2025-03-22 08:53:16",
+      "lastUsed": "2025-03-22 08:59:27"
     }
   },
   "INSANE": {
