@@ -128,9 +128,10 @@
     },
     "trial": {
       "password": "1day",
-      "hwid": "",
+      "hwid": "9BE1E3B5-8CBE-E311-BF41-6431503407E9",
       "expiryDate": "2025-03-25 01:24:23",
-      "creationDate": "2025-03-24 01:24:37"
+      "creationDate": "2025-03-24 01:24:37",
+      "lastUsed": "2025-03-24 01:35:26"
     }
   },
   "INSANE": {
