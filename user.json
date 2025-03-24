@@ -125,6 +125,12 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-22 08:53:16",
       "lastUsed": "2025-03-23 15:24:56"
+    },
+    "trial": {
+      "password": "1day",
+      "hwid": "",
+      "expiryDate": "2025-03-25 01:24:23",
+      "creationDate": "2025-03-24 01:24:37"
     }
   },
   "INSANE": {
