@@ -315,6 +315,12 @@
       "hwid": "",
       "expiryDate": "2025-04-28",
       "creationDate": "2025-03-27 19:23:13"
+    },
+    "2day": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-03-30",
+      "creationDate": "2025-03-27 20:05:21"
     }
   }
 }
