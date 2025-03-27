@@ -309,6 +309,12 @@
       "expiryDate": "2026",
       "creationDate": "2025-03-24 19:57:52",
       "lastUsed": "2025-03-27 12:05:30"
+    },
+    "basit": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-04-28",
+      "creationDate": "2025-03-27 19:23:13"
     }
   }
 }
