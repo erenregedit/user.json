@@ -323,6 +323,18 @@
       "expiryDate": "2025-03-30",
       "creationDate": "2025-03-27 20:05:21",
       "lastUsed": "2025-03-28 12:25:51"
+    },
+    "romi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-05-30",
+      "creationDate": "2025-03-30 09:19:53"
+    },
+    "bypasscus": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-05-30",
+      "creationDate": "2025-03-30 09:19:53"
     }
   }
 }
