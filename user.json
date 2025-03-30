@@ -337,6 +337,12 @@
       "expiryDate": "2025-05-30",
       "creationDate": "2025-03-30 09:19:53",
       "lastUsed": "2025-03-30 12:50:24"
+    },
+    "black": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-04-01",
+      "creationDate": "2025-03-30 20:09:00"
     }
   }
 }
