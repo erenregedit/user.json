@@ -330,6 +330,12 @@
       "hwid": "",
       "expiryDate": "2027-09-29",
       "creationDate": "2025-04-01 13:51:06"
+    },
+    "black": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-04-04",
+      "creationDate": "2025-04-01 13:56:42"
     }
   }
 }
