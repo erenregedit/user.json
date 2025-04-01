@@ -327,9 +327,10 @@
     },
     "hassan": {
       "password": "1",
-      "hwid": "",
+      "hwid": "C91BE1CB-9062-EC91-6984-049226CE2029",
       "expiryDate": "2027-09-29",
-      "creationDate": "2025-04-01 13:51:06"
+      "creationDate": "2025-04-01 13:51:06",
+      "lastUsed": "2025-04-01 15:11:09"
     },
     "black": {
       "password": "1",
