@@ -331,6 +331,12 @@
       "expiryDate": "2026",
       "creationDate": "2025-03-30 20:10:36",
       "lastUsed": "2025-04-01 12:07:02"
+    },
+    "hassan": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2027-09-29",
+      "creationDate": "2025-04-01 13:51:06"
     }
   }
 }
