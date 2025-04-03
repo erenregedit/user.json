@@ -125,6 +125,24 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-22 08:53:16",
       "lastUsed": "2025-03-25 18:34:08"
+    },
+    "cj7": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-04-17",
+      "creationDate": "2025-04-03 17:28:58"
+    },
+    "ap7": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-04-17",
+      "creationDate": "2025-04-03 17:28:58"
+    },
+    "07": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-04-17",
+      "creationDate": "2025-04-03 17:28:58"
     }
   },
   "INSANE": {
