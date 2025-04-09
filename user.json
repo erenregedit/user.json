@@ -33,7 +33,7 @@
       "hwid": "27AA6F58-0E93-4831-9D62-41A97B9E6893",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-13 17:01:40",
-      "lastUsed": "2025-04-09 03:34:52"
+      "lastUsed": "2025-04-09 07:46:42"
     },
     "sarwal": {
       "password": "1",
@@ -58,7 +58,7 @@
     },
     "bakar": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4F691B80-E15E-11E2-A52E-8851FB53ADED",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-14 04:40:14",
       "lastUsed": "2025-04-09 06:05:49"
@@ -292,7 +292,7 @@
       "hwid": "4C4C4544-0054-5110-804A-B7C04F315231",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-13 15:44:45",
-      "lastUsed": "2025-04-09 07:41:54"
+      "lastUsed": "2025-04-08 19:39:11"
     },
     "ali1": {
       "password": "1",
@@ -361,12 +361,6 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-04-07 10:13:14"
-    },
-    "faded": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-04-09 07:43:01"
     }
   }
 }
