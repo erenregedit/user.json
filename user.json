@@ -159,9 +159,10 @@
     },
     "vincenzo": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0030-4C10-8030-B1C04F435A31",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-04-10 15:06:48"
+      "creationDate": "2025-04-10 15:06:48",
+      "lastUsed": "2025-04-10 15:12:07"
     }
   },
   "INSANE": {
