@@ -152,9 +152,10 @@
     },
     "hakim": {
       "password": "1",
-      "hwid": "",
+      "hwid": "2899BA2C-476A-12F3-E178-08BFB8B97D69",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-04-10 08:28:20"
+      "creationDate": "2025-04-10 08:28:20",
+      "lastUsed": "2025-04-10 12:24:45"
     }
   },
   "INSANE": {
