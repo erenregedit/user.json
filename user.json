@@ -192,9 +192,10 @@
     },
     "quezada": {
       "password": "1",
-      "hwid": "",
+      "hwid": "EB0E89A9-A228-A413-A37A-2CF05DA94484",
       "expiryDate": "2025-04-17 19:33:17",
-      "creationDate": "2025-04-15 19:33:35"
+      "creationDate": "2025-04-15 19:33:35",
+      "lastUsed": "2025-04-15 19:36:48"
     },
     "mun": {
       "password": "1",
